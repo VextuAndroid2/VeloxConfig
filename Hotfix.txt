@@ -1,1 +1,1 @@
-10.0|https://github.com/VextuAndroid2/VeloxConfig/releases/download/Preview/app.apk|Test
+10.5|https://github.com/VextuAndroid2/VeloxConfig/releases/download/Preview/VELOX.10.5.HOTFIX.apk|Update bypass.\nDisable dns.\nUpdate buttons desing.
