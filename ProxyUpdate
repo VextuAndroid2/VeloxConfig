@@ -1,0 +1,8 @@
+{
+  "version_code": 6,
+  "version_name": "v6.0",
+  "changelog": "• Nueva interfaz con animaciones fluidas.\n• Inyección de memoria optimizada.\n• Mejoras en el servidor.\n• Nuevas opciones de hs.",
+  "download_url": "https://ejemplo.com/descargas/VextuProxy_v6.0.apk",
+  "force_update": true
+}
+
