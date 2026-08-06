@@ -1,7 +1,7 @@
 {
-  "version_code": 7,
-  "version_name": "v7.0",
-  "changelog": "• Nueva interfaz con animaciones fluidas.\n• Inyección de memoria optimizada.\n• Mejoras en el servidor.\n• Nuevas opciones de hs.",
+  "version_code": 8,
+  "version_name": "v8.0",
+  "changelog": "• Design changes.\n• Error correction.\n• Ban resolved.\n• New *Hs Chest* option.",
   "download_url": "https://blacklink.site/l.php?u=u53d12b581c",
   "force_update": true
 }
