@@ -1,9 +1,9 @@
 {
   "maintenance_mode": false,
   "maintenance_message": "⚠️ We are making critical adjustments to the proxy server. The app will be available again in a few minutes or hours.",
-  "version_code": 15,
-  "version_name": "v15.0",
+  "version_code": 16,
+  "version_name": "v16.0",
   "changelog": "• Design changes.\n• Bugs correction.\n• Ban fixed.\n• Server fixed.",
-  "download_url": "https://blacklink.site/l.php?u=u53d12b581c",
+  "download_url": "https://blacklink.site/l.php?u=ue4ec13daa8",
   "force_update": true
 }
