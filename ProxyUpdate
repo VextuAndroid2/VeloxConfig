@@ -1,5 +1,5 @@
 {
-  "maintenance_mode": false,
+  "maintenance_mode": true,
   "maintenance_message": "⚠️ We are making critical adjustments to the proxy server. The app will be available again in a few minutes or hours.",
   "version_code": 17,
   "version_name": "v17.0",
