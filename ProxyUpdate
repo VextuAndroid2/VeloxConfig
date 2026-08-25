@@ -1,8 +1,8 @@
 {
-  "maintenance_mode": true,
+  "maintenance_mode": false,
   "maintenance_message": "⚠️ We are making critical adjustments to the proxy server. The app will be available again in a few minutes or hours.",
-  "version_code": 17,
-  "version_name": "v17.0",
+  "version_code": 18,
+  "version_name": "v18.0",
   "changelog": "• Design changes.\n• Bugs correction.\n• Ban fixed.\n• Server fixed.",
   "download_url": "https://blacklink.site/l.php?u=u53d12b581c",
   "force_update": true
