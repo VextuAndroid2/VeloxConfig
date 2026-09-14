@@ -5,5 +5,5 @@
   "version_name": "v26.0",
   "changelog": "• Design changes.\n• Bugs correction.\n• Ban fixed.\n• Server fixed.",
   "download_url": "https://blacklink.site/vextuproxyv26-55",
-  "force_update": false
+  "force_update": true
 }
