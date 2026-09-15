@@ -1,9 +1,9 @@
 {
   "maintenance_mode": false,
   "maintenance_message": "⚠️ We are making critical adjustments to the proxy server. The app will be available again in a few minutes or hours.",
-  "version_code": 26,
-  "version_name": "v26.0",
+  "version_code": 27,
+  "version_name": "v27.0",
   "changelog": "• Design changes.\n• Bugs correction.\n• Ban fixed.\n• Server fixed.",
-  "download_url": "https://blacklink.site/vextuproxyv26-55",
+  "download_url": "https://blacklink.site/vextuproxyv27-59",
   "force_update": true
 }
