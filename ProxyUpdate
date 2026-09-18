@@ -1,9 +1,9 @@
 {
   "maintenance_mode": false,
   "maintenance_message": "⚠️ We are making critical adjustments to the proxy server. The app will be available again in a few minutes or hours.",
-  "version_code": 28,
-  "version_name": "v28.0",
-  "changelog": "• OB55 UPDATE",
-  "download_url": "https://blacklink.site/vextuproxyv29-93",
+  "version_code": 30,
+  "version_name": "v30.0",
+  "changelog": "• MULTI OPTIONS UPDATE",
+  "download_url": "https://blacklink.site/vextuproxyv30",
   "force_update": true
 }
